@@ -3,7 +3,8 @@
 ## Info:
   backgrounds are 2560x1600 (size of macbook screen)
 ## Credits:
-  Color palettes (excluding one dark) from [coolors.co/u/sparwow](https://coolors.co/u/sparwow) ([sparrow-ceiling.tumblr.com](https://sparrow-ceiling.tumblr.com/))
+  Color palettes (excluding ones listed below) from [coolors.co/u/sparwow](https://coolors.co/u/sparwow) ([sparrow-ceiling.tumblr.com](https://sparrow-ceiling.tumblr.com/))
+  Nord, One Dark, Gruvbox, and Dracula are made by other people
   
   Image generation script made by me (ratHippo)
 
