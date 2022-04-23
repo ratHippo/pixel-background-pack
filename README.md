@@ -11,3 +11,6 @@
 ## Dependencies:
   colors.py (pip install colors.py)
   PIL       (pip install Pillow)
+
+## Contribution:
+  Feel free to add more color palletes, just make a pull request. To request a color pallete, just create a new issue.
